@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DatabaseApp</string>
+    <string name="your_age">Your age:</string>
+    <string name="your_name">Your name:</string>
+    <string name="insert">Insert</string>
+    <string name="delete_name">Delete name:</string>
+    <string name="delete">Delete</string>
+    <string name="search_name">Search name:</string>
+    <string name="search">Search</string>
+    <string name="select">Select</string>
+</resources>
